@@ -1,7 +1,11 @@
 # Mcdonald
 
 - data source : https://www.kaggle.com/mcdonalds/nutrition-facts
-- mcdonald menu: https://www.mcdonalds.com/us/en-us/full-menu.html
+- mcdonald nutrition: https://www.mcdonalds.com/us/en-us/about-our-food/nutrition-calculator.html
+- popyeye nutrition: https://www.popeyes.com/nutritional-information
+- taco bell nutrition: https://www.tacobell.com/nutrition/info
+- chipole nutriiton calculator: https://www.chipotle.com/nutrition-calculator
+- chika filla nutrition: https://www.chick-fil-a.com/nutrition-allergens
 
 ## Planning
 - Dashboard:
