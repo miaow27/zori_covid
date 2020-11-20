@@ -3,7 +3,7 @@
 ### Settting Up Vir Env
 
 ```
-conda create zori-covid
+conda create -n zori_covid python=3.9 anaconda
 conda activate zori-covid
 pip install -r requirements.txt
 ```
