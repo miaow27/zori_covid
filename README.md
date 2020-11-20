@@ -13,3 +13,4 @@ pip install -r requirements.txt
 - Port: 5432
 - User: postgres
 - Password: database
+- database name: postgres
