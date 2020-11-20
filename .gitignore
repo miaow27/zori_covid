@@ -1,3 +1,9 @@
+# Data
+*.csv
+*.xlsx
+*.docx
+*.txt
+
 # Mac
 *.DS_Store
 
