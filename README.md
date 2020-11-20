@@ -1,5 +1,13 @@
 # ZORI + Covid
 
+### Settting Up Vir Env
+
+```
+conda create zori-covid
+conda activate zori-covid
+pip install -r requirements.txt
+```
+
 ### Database Access
 - hostname: rent-covid-db.cyijf0zaipvg.us-east-2.rds.amazonaws.com
 - Port: 5432
