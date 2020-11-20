@@ -3,7 +3,7 @@
 ### Settting Up Vir Env
 
 ```
-conda create -n zori_covid python=3.9 anaconda
+conda create -n zori_covid python=3.8
 conda activate zori-covid
 pip install -r requirements.txt
 ```
@@ -13,3 +13,4 @@ pip install -r requirements.txt
 - Port: 5432
 - User: postgres
 - Password: database
+- database name: postgres
